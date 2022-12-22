@@ -10,12 +10,6 @@ type TPoint ={
 function App() {
 
 
-// type TNum ={
-//   min: number;
-//   max:number;
-// }
-
-
 
 
   const [point, setPoint] = useState<TPoint[]>([]);
